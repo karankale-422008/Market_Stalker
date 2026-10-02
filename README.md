@@ -1,4 +1,4 @@
-# Indian Market AI News Intelligence Platform (MVP)
+# Market Stalker — Indian Financial AI News Intelligence Platform (MVP)
 
 An AI-powered Indian financial news intelligence and market-analysis platform designed to collect and analyze financial/business news from 10 major Indian publishers, synthesize market implications, and provide AI-driven chat and trade event intelligence.
 
